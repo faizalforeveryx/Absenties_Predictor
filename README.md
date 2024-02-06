@@ -15,7 +15,7 @@ Decision Tree Classifier
 Provide detailed explanations of each model's workings and performance.
 
 ## Dataset
-The dataset used for this project is available on Kaggle: Credit Card Fraud Detection.
+The dataset used for this project is available on Kaggle: Credit Card Fraud Detection: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data.
 
 ### Methodology
 Exploratory Data Analysis (EDA): Explore the dataset to understand its structure, distributions, and relationships between variables.
