@@ -29,7 +29,7 @@ Model Evaluation: Assess the performance of each model using metrics such as acc
 Conclusion: Summarize the findings and discuss the effectiveness of each model in detecting fraudulent transactions.
 
 ### Usage
-Install the required libraries specified in the requirements.txt file.
+Install the required libraries specified in the Credit_Card_Fraud_Detection_project.ipynb.
 Download the dataset from the provided Kaggle link.
 Run the Jupyter Notebook or Python script to execute the project.
 Analyze the results and conclusions drawn from the models.
